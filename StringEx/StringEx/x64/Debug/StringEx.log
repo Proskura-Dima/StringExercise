@@ -1,0 +1,5 @@
+﻿  StringEx.cpp
+C:\Users\Dima\source\repos\StringEx\StringEx\StringEx.cpp(12,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dima\source\repos\StringEx\StringEx\StringEx.cpp(14,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dima\source\repos\StringEx\StringEx\StringEx.cpp(44,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  StringEx.vcxproj -> C:\Users\Dima\source\repos\StringEx\x64\Debug\StringEx.exe
